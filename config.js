@@ -1,0 +1,11 @@
+// MESALY Technologies site configuration — edit the values below (see README.md)
+window.MESALY = {
+  email: "contact.mtech.official@gmail.com",      // business email (forms fall back to this if Firebase is not set)
+  whatsapp: "923203261989",                        // international format, digits only, e.g. "923001234567"
+  linkedin: "",   
+  facebook:"https://www.facebook.com/share/1DzJCHA8Fk/",
+  // e.g. "https://www.linkedin.com/company/mesaly"
+  github: "https://github.com/mesalytech",                          // e.g. "https://github.com/mesaly"
+  firebase: null                       // paste your Firebase web config object here to enable saved forms, blog/portfolio/testimonials from admin
+  /* firebase: { apiKey:"...", authDomain:"...", projectId:"...", appId:"..." } */
+};

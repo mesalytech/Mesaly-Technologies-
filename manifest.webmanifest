@@ -1,0 +1,19 @@
+{
+  "name": "MESALY Technologies",
+  "short_name": "MESALY",
+  "description": "Building Digital Solutions. Empowering Businesses.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f8ff",
+  "theme_color": "#0a1230",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
