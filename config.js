@@ -7,7 +7,7 @@ window.MESALY = {
   // e.g. "https://www.linkedin.com/company/mesaly"
   github: "https://github.com/mesalytech",                          // e.g. "https://github.com/mesaly"
   firebase: null                       // paste your Firebase web config object here to enable saved forms, blog/portfolio/testimonials from admin
-  firebase: { apiKey:"AIzaSyCOH-l5Yc6bPSVFQ0PrJDMikWSxwG4eb7A", authDomain:"https://mesalytech.pages.dev", 
+  firebase: { apiKey:"AIzaSyCOH-l5Yc6bPSVFQ0PrJDMikWSxwG4eb7A", authDomain:"mesalytech.pages.dev", 
     projectId:"mesaly-ad045", appId:"1:28113130980:web:ba8d4787c51b0b504823f1" ,
 
 storageBucket: "mesaly-ad045.firebasestorage.app",
